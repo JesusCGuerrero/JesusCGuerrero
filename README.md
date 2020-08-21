@@ -1,6 +1,6 @@
 <h2> Hey there! I'm Jesus.</h2>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 💻 About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and web applications.
 - 🎓 &nbsp; Studying Computer Science and Web Development at Lambda School.
