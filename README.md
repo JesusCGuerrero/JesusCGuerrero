@@ -15,9 +15,9 @@
 
 <br/>
 
-[![Jesus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Jesus&show_icons=true)](https://github.com/Jesus)
+[![Jesus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCGuerrero&show_icons=true)](https://github.com/Jesus)
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> Connect with Me </h3>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/jesuscguerrero/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Jesus%20Clement%20Guerrero-blue?style=flat-square&logo=linkedin"></a>
