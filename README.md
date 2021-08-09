@@ -15,7 +15,7 @@
 
 <br/>
 
-[![Jesus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCGuerrero&show_icons=true)](https://github.com/Jesus)
+[![Jesus's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JesusCGuerrero&show_icons=true)](https://github.com/JesusCGuerrero)
 
 <h3> Connect with Me </h3>
 
