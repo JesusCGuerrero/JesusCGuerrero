@@ -11,7 +11,7 @@
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | Node.js | ReactJS | Jest | jQuery | Redux | SCSS/LESS
 - 🛢 &nbsp; PostgreSQL | SQLite3 | Redis | Node.js | Express | REST
 - 💻 &nbsp; Python
-- 🔧 &nbsp; Git | Markdown | Heroku | Plotly | Netlify | AWS | Cypress
+- 🔧 &nbsp; Shopify | Git | Markdown | Heroku | Plotly | Netlify | AWS | Cypress
 
 <br/>
 
