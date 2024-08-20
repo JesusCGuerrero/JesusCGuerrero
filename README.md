@@ -1,7 +1,7 @@
 <h2> Hey there! I'm Jesus.</h2>
 
 <h3> 💻 About Me </h3>
-
+- 💻 &nbsp Senior Solution Engineer at Extend Inc.
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and web applications.
 - 🎓 &nbsp; Studied Computer Science and Web Development at Lambda School.
 - ✍️ &nbsp; Making music on the side.
