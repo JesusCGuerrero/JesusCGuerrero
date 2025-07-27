@@ -12,11 +12,10 @@ Frontend <br/>
 🧪 Jest | Cypress<br/> <br/>
 
 Backend & Databases
-
 🛢 Node.js | Express | REST APIs <br/>
 🗄️ PostgreSQL | SQLite3 | Redis <br/> <br/>
 
-Languages & Platforms
+Languages & Platforms <br/>
 🐍 Python | C++ | Unity <br/>
 🛒 Shopify | BigCommerce | Salesforce Commerce Cloud (SFCC) <br/>
 🤖 Mastra AI <br/>
