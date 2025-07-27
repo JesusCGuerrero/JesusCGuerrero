@@ -11,7 +11,7 @@ Frontend <br/>
 🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | jQuery | Redux | SCSS/LESS | Liquid <br/>
 🧪 Jest | Cypress<br/> <br/>
 
-Backend & Databases
+Backend & Databases<br/>
 🛢 Node.js | Express | REST APIs <br/>
 🗄️ PostgreSQL | SQLite3 | Redis <br/> <br/>
 
