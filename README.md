@@ -1,12 +1,12 @@
-Hey there! I'm Jesus 👋
-💻 About Me
-
-💻 Senior Solution Engineer at Extend Inc.
-🤔 Exploring new technologies and developing software solutions and web applications
-🎓 Studied Computer Science and Web Development at Lambda School
-🎵 Making music on the side
-
-🛠 Tech Stack
+Hey there! I'm Jesus 👋 <br/>
+💻 About Me <br/>
+<br/>
+💻 Senior Solution Engineer at Extend Inc. <br/>
+🤔 Exploring new technologies and developing software solutions and web applications <br/>
+🎓 Studied Computer Science and Web Development at Lambda School <br/>
+🎵 Making music on the side <br/>
+<br/>
+🛠 Tech Stack 
 Frontend
 
 🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | jQuery | Redux | SCSS/LESS | Liquid
