@@ -5,19 +5,18 @@ About Me<br/>
 🎓 Studied Computer Science and Web Development at Lambda School <br/>
 🎵 Making music on the side <br/>
 <br/>
-🛠 Tech Stack <br/><br/>
+🛠 Tech Stack 
 
 Frontend <br/>
 🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | jQuery | Redux | SCSS/LESS | Liquid <br/>
 🧪 Jest | Cypress<br/> <br/>
 
-Backend & Databases<br/>
+Backend & Databases
 
 🛢 Node.js | Express | REST APIs <br/>
 🗄️ PostgreSQL | SQLite3 | Redis <br/> <br/>
 
 Languages & Platforms
-
 🐍 Python | C++ | Unity <br/>
 🛒 Shopify | BigCommerce | Salesforce Commerce Cloud (SFCC) <br/>
 🤖 Mastra AI <br/>
