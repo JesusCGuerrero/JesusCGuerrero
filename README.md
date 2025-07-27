@@ -1,28 +1,27 @@
-Hey there! I'm Jesus 👋 <br/>
-💻 About Me <br/>
-<br/>
+Hey there! I'm Jesus 👋<br/> <br/>
+About Me<br/>
 💻 Senior Solution Engineer at Extend Inc. <br/>
 🤔 Exploring new technologies and developing software solutions and web applications <br/>
 🎓 Studied Computer Science and Web Development at Lambda School <br/>
 🎵 Making music on the side <br/>
 <br/>
-🛠 Tech Stack 
-Frontend
+🛠 Tech Stack <br/><br/>
 
-🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | jQuery | Redux | SCSS/LESS | Liquid
-🧪 Jest | Cypress
+Frontend <br/>
+🌐 HTML | CSS | JavaScript | Bootstrap | ReactJS | jQuery | Redux | SCSS/LESS | Liquid <br/>
+🧪 Jest | Cypress<br/> <br/>
 
-Backend & Databases
+Backend & Databases<br/>
 
-🛢 Node.js | Express | REST APIs
-🗄️ PostgreSQL | SQLite3 | Redis
+🛢 Node.js | Express | REST APIs <br/>
+🗄️ PostgreSQL | SQLite3 | Redis <br/> <br/>
 
 Languages & Platforms
 
-🐍 Python | C++ | Unity
-🛒 Shopify | BigCommerce | Salesforce Commerce Cloud (SFCC)
-🤖 Mastra AI
-☁️ AWS
+🐍 Python | C++ | Unity <br/>
+🛒 Shopify | BigCommerce | Salesforce Commerce Cloud (SFCC) <br/>
+🤖 Mastra AI <br/>
+☁️ AWS <br/> <br/>
 
 🤝 Connect with Me
 <p align="center">
